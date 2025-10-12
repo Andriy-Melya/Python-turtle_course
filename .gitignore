@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environment ---
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- MkDocs build directory ---
+site/
+
+# --- Jupyter / notebooks (на майбутнє) ---
+.ipynb_checkpoints
+
+# --- IDE / Editor files ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs / cache ---
+*.log
+.cache/

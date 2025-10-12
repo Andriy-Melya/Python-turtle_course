@@ -16,10 +16,14 @@ theme:
   extra_css:
     - assets/stylesheets/extra.css
 
-
 nav:
   - Про курс: index.md
   - Структура курсу: structure.md
   - Програма курсу: programa_course.md
   - Що таке черепашача графіка: turtle_graphics.md
   - Як встановити Thonny: install_thonny.md
+  - Уроки:
+    - Урок 1: lessons/lesson1.md
+    - Урок 2: lessons/lesson2.md
+    - Урок 3: lessons/lesson3.md
+

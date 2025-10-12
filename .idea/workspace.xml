@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0fc1f59-f0c9-49b0-969a-30da9b6caadd" name="Changes" comment="" />
+    <list default="true" id="e0fc1f59-f0c9-49b0-969a-30da9b6caadd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/scripts/kids.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/scripts/kids.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/styles/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/styles/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/lesson1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/lesson1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/lesson2.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/lesson2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "lesson1"
   }
 }]]></component>
   <component name="SharedIndexes">

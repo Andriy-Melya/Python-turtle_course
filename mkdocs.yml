@@ -1,20 +1,73 @@
-site_name: "Python-черепаха"
+site_name: "Python-черепаха: Від перших кроків до шедеврів"
 site_description: "Курс для дітей 9+ років, які роблять перші кроки у програмуванні"
 site_author: "Андрій Мельник"
 site_url: "https://your-github-username.github.io/Python-turtle_course/"
 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   language: uk
+  features:
+    - navigation.instant    # швидкі переходи без повного перезавантаження сторінки
+    - navigation.sections   # секції у навігації (групує сторінки)
+    - navigation.top        # кнопка «вгору» та хедер завжди доступний
+    - navigation.footer     # нижній футер-навігація
+    - header.autohide       # шапка ховається при скролі вниз
+    - content.code.copy     # кнопка копіювання коду в блоках
+    - content.action.view   # кнопка «переглянути вихідний/редагувати» (разом із repo_url)
+    - content.tabs.link     # дозволяє лінкуватися на вкладки (tabbed)
+    - toc.follow            # індикатор: підсвічує пункт змісту, де ти зараз
+    - toc.integrate: false  # інтегрує зміст (TOC) у праву колонку/сторінку
   palette:
-    primary: 'indigo'
-    accent: 'pink'
+    - media: "(prefers-color-scheme: light)"   # для світлої теми
+      scheme: default
+      primary: teal       # основний колір (кнопки, акценти інтерфейсу)
+      accent: amber       # додатковий акцент
+      toggle:
+        icon: material/weather-night  # іконка перемикача теми
+        name: Темна тема              # підказка при наведенні
+    - media: "(prefers-color-scheme: dark)"    # для темної теми
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Світла тема
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
-  logo: 'images/logo.png'  # шлях до твого логотипу
-  extra_css:
-    - assets/stylesheets/extra.css
+    text: "Nunito"            # основний шрифт тексту (дружній дітям)
+    code: "JetBrains Mono"    # моношрифт для коду (читабельний)
+
+extra_css:
+  - assets/styles/custom.css
+extra_javascript:
+  - assets/scripts/kids.js
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+use_directory_urls: true
+
+markdown_extensions:
+  - admonition                  # кольорові блоки: !!! tip/note/warning
+  - attr_list                   # атрибути прямо в Markdown (кластери, стилі)
+  - def_list                    # списки-визначення
+  - footnotes                   # виноски
+  - md_in_html                  # дозволяє Markdown всередині HTML-блоків
+  - tables                      # розширені таблиці
+  - toc:
+      permalink: true           # «якірці» у заголовків (іконка-лінк)
+  - pymdownx.details            # спойлери/розкривні блоки
+  - pymdownx.emoji              # підтримка емодзі :sparkles:
+  - pymdownx.highlight          # підсвічування коду
+  - pymdownx.keys               # гарні «клавіші» ⌘K у тексті
+  - pymdownx.magiclink          # авто-лінки URL/issue/PR
+  - pymdownx.smartsymbols       # «розумні» символи (стрілки, тире)
+  - pymdownx.superfences        # вкладені/комбіновані блоки коду
+  - pymdownx.tabbed:
+      alternate_style: true     # вкладки для «Код / Пояснення» тощо
 
 nav:
   - Про курс: index.md
@@ -22,8 +75,9 @@ nav:
   - Програма курсу: programa_course.md
   - Що таке черепашача графіка: turtle_graphics.md
   - Як встановити Thonny: install_thonny.md
-  - Уроки:
-    - Урок 1: lessons/lesson1.md
-    - Урок 2: lessons/lesson2.md
-    - Урок 3: lessons/lesson3.md
+  - Навчання:
+    - Тема 1:
+      - Знайомство з черепашкою: lessons/lesson1.md
+      - Вигляд черепашки та основні її кольори: lessons/lesson2.md
+   # - Урок 3: lessons/lesson3.md
 

@@ -76,8 +76,9 @@ nav:
   - Що таке черепашача графіка: turtle_graphics.md
   - Як встановити Thonny: install_thonny.md
   - Навчання:
-    - Тема 1:
-      - Знайомство з черепашкою: lessons/lesson1.md
+    - Тема 1. Знайомство з черепашкою:
+      - Перші команди для черепашки: lessons/lesson1.md
       - Вигляд черепашки та основні її кольори: lessons/lesson2.md
+      - Завдання до теми: lessons/task_1-2.md
    # - Урок 3: lessons/lesson3.md
 

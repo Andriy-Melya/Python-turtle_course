@@ -103,12 +103,14 @@ shape("turtle")
 pencolor("red")
 pensize(5)
 
-# Малюємо трикутник
-forward(100)
-right(120)
-forward(100)
-right(120)
-forward(100)
+# Малюємо прямокутник
+forward(150)
+right(90)
+forward(300)
+right(90)
+forward(150)
+right(90)
+forward(300)
 
 done()
 ```

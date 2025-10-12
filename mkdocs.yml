@@ -1,0 +1,25 @@
+site_name: "Python-черепаха"
+site_description: "Курс для дітей 9+ років, які роблять перші кроки у програмуванні"
+site_author: "Андрій Мельник"
+site_url: "https://your-github-username.github.io/Python-turtle_course/"
+
+theme:
+  name: material
+  language: uk
+  palette:
+    primary: 'indigo'
+    accent: 'pink'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo: 'images/logo.png'  # шлях до твого логотипу
+  extra_css:
+    - assets/stylesheets/extra.css
+
+
+nav:
+  - Про курс: index.md
+  - Структура курсу: structure.md
+  - Програма курсу: programa_course.md
+  - Що таке черепашача графіка: turtle_graphics.md
+  - Як встановити Thonny: install_thonny.md

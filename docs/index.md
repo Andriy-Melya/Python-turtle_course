@@ -1,5 +1,5 @@
 <div class="hero">
-  <img class="hero__img" src="./assets/logo.png" alt="Turtle" />
+  <img class="hero__img" src="assets/logo.png" alt="Turtle" />
   <div class="hero__text">
     <h1>Python-черепаха</h1>
     <p>Від перших кроків до шедеврів 🐢✨</p>

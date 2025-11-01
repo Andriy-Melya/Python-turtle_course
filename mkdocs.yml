@@ -80,5 +80,8 @@ nav:
       - Перші команди для черепашки: lessons/lesson1.md
       - Вигляд черепашки та основні її кольори: lessons/lesson2.md
       - Завдання до теми: lessons/task_1-2.md
-   # - Урок 3: lessons/lesson3.md
+    - Тема 2. Напрямки руху черепашки:
+      - Рух і напрямки черепашки: lessons/lesson3.md
+      #- Переміщення черепашки: lessons/lesson4.md
+      - Завдання до теми: lessons/task_3-4.md
 

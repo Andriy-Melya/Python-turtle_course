@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0fc1f59-f0c9-49b0-969a-30da9b6caadd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/lessons/lesson4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/lessons/task_3-4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/image_task_1-2/task_1-2_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/image_task/task_1-2_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/image_task_1-2/task_1-2_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/image_task/task_1-2_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/image_task_1-2/task_1-2_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/image_task/task_1-2_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/image_task_1-2/task_1-2_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/image_task/task_1-2_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/image_task_1-2/task_1-2_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/image_task/task_1-2_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/image_task_1-2/task_1-2_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/image_task/task_1-2_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/image_task_1-2/task_1-2_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/image_task/task_1-2_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/image_task_1-2/task_1-2_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/image_task/task_1-2_8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/lesson1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/lesson1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/lesson2.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/lesson2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/lesson3.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/lesson3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lessons/task_1-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/task_1-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/task_3-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/task_3-4.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +27,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Python-turtle_сourse/Python-turtle_сourse/docs/lessons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Python-turtle_сourse/Python-turtle_сourse/docs/lessons&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Python-turtle_сourse\Python-turtle_сourse\docs\lessons" />

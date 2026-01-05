@@ -92,3 +92,6 @@ nav:
         - Змінні та дії з числами: lessons/lesson6.md
         - Як змінювати значення змінної: lessons/lesson7.md
         - Завдання до теми: lessons/task_6-7.md
+    - Тема 5. Система координат:
+        - Координатна площина у Turtle: lessons/lesson8.md
+        - Завдання до теми: lessons/task_8-9.md

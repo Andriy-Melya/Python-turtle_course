@@ -1,7 +1,7 @@
 site_name: "Python-черепаха: Від перших кроків до шедеврів"
 site_description: "Курс для дітей 9+ років, які роблять перші кроки у програмуванні"
 site_author: "Андрій Мельник"
-site_url: "https://your-github-username.github.io/Python-turtle_course/"
+site_url: "https://andriy-melya.github.io/Python-turtle_course/"
 
 theme:
   name: material

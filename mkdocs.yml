@@ -107,5 +107,7 @@ nav:
         - Завдання до теми: lessons/task_11.md
         - ⚓ Місія — Морський бій: lessons/task_12.md
         - Виведення тексту в Turtle: lessons/lesson12.md
-
+    - Тема 8. Цикли — коли код працює за тебе:
+        - Що таке цикл і для чого він потрібен?: lessons/lesson13.md
+        - Завдання до теми: lessons/task_13.md
 

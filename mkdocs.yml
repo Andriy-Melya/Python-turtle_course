@@ -109,5 +109,6 @@ nav:
         - Виведення тексту в Turtle: lessons/lesson12.md
     - Тема 8. Цикли — коли код працює за тебе:
         - Що таке цикл і для чого він потрібен?: lessons/lesson13.md
+        - Випадковий колір: lessons/lesson14.md
         - Завдання до теми: lessons/task_13.md
 

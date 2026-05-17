@@ -111,4 +111,8 @@ nav:
         - Що таке цикл і для чого він потрібен?: lessons/lesson13.md
         - Випадковий колір: lessons/lesson14.md
         - Завдання до теми: lessons/task_13.md
+    - Тема 9. Цикли та допоміжні змінні:
+        - Змінні в циклі: lessons/lesson15.md
+        - Підготовка до практики: lessons/preparation_task_9.md
+        - Завдання до теми: lessons/task_14.md
 

@@ -116,4 +116,6 @@ nav:
         - Підготовка до практики: lessons/preparation_task_9.md
         - Завдання до теми: lessons/task_14.md
         - Закономірності в циклі. Завдання: lessons/task_15.md
-
+    - Тема 10. Власні ФУНКЦІЇ:
+        - Що таке функція і як її створити:  lessons/lesson16.md
+        - Завдання до теми: lessons/task_16.md
